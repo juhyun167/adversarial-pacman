@@ -1,7 +1,5 @@
 # **adversarial-pacman**
 
-![banner](images/banner.png)
-
 ![pacman](images/pacman.gif)
 
 Adversarial pacman agent for final project in COSE361 (Artificial Intelligence), Korea University, Spring 2021. The course and project is based on [CS188](https://inst.eecs.berkeley.edu/~cs188/su21/), University of California at Berkeley.
